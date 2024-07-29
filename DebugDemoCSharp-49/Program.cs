@@ -23,6 +23,8 @@ var age = 20;
 
 //Console.WriteLine($"hello my name is {age} and i am {name} years old.");
 
+
+//<-- breakpoint here
 for (int i = 1; i <= 10; i++)
 {
     Console.WriteLine(i);
